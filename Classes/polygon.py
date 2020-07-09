@@ -1,14 +1,3 @@
-# class Polygon:
-#     # Let vertices be an array of (x,y) tuples
-#     def __init__(self, vertices):
-#         self.vertices = vertices
-
-#     def setVertices(self, vertices):
-#         self.vertices = vertices
-
-#     def getVertices(self):
-#         return self.vertices
-# from shapely.geometry import Polygon
 from shapely.geometry import Polygon as SPoly
 from shapely.geometry import Point as SPoint
 
