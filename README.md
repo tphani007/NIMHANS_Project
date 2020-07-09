@@ -18,3 +18,5 @@ Status here indicates whether:
   * The annotation lies completely inside the tile.
 * **createXML.py**: This file takes the tiles, annotations and generates an XML file to view as an overlay on WSI images in ImageScope.
 * **visualizeTiles.py**: Provides a class that serves as a wrapper around all the other files in this package.
+
+main.py is an example file to show how to run the files
